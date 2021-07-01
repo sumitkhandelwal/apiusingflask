@@ -6,3 +6,6 @@ Usage Instruction
 pip install flask
 
 2. Create a new folder upload
+
+3. Run a code
+python main.py
